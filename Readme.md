@@ -1,5 +1,5 @@
-# SDLC Activity Based Learning
-![Banner](https://github.com/arc-arnob/LnT_Mini_Project/blob/main/1_Requirements/banner.png)
+# SDLC Based MiniProject on C
+
 
 Visit [Pages for Report -optional](using github.io option)
 
@@ -20,7 +20,7 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`256131` | Arnob Chowdhury  | Feature A, B etc    | X No     | X No   |X No   |X No     
+`258643 | Sai Joshitha Annareddy  | X No    | X No     | X No   |X No   |X No     
    
 
 ## Challenges Faced and How Was It Overcome
