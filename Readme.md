@@ -1,5 +1,5 @@
 # SDLC Based MiniProject on C
-Quiz game
+# Quiz game
 
 Visit [Pages for Report -optional](using github.io option)
 
