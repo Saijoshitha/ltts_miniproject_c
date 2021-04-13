@@ -6,11 +6,11 @@
 # 4W&#39;s and 1&#39;H
 
 ## Who:
-*Schools,colleges or any other Educational institutions can use to conduct Quiz competitions.
-*All ages of people enjoy the game and also improve their IQ level.
+* Schools,colleges or any other Educational institutions can use to conduct Quiz competitions.
+* All ages of people enjoy the game and also improve their IQ level.
 
 ## What:
-*Tedious writing of questions and printing of hundreds and thousands of papers is reduced and will be very convinient to conduct quiz competitions.
+* Tedious writing of questions and printing of hundreds and thousands of papers is reduced and will be very convinient to conduct quiz competitions.
 
 ## When:
 * This idea arised to improve interest in subject among students though games and also to improve competitive nature among students
