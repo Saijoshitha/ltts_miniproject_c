@@ -4,13 +4,13 @@
 ## High Level Design 
 
 * Architecture Design :
-![Architecture] (https://github.com/Saijoshitha/ltts_miniproject_c/blob/main/2_Design/Untitled%20Diagram.drawio)
+![Architecture](https://github.com/Saijoshitha/ltts_miniproject_c/blob/main/2_Design/Untitled%20Diagram.drawio)
 
 * Component Diagram :
-![ComponentDiagram] (https://github.com/Saijoshitha/ltts_miniproject_c/blob/main/2_Design/component.drawio)
+![ComponentDiagram](https://github.com/Saijoshitha/ltts_miniproject_c/blob/main/2_Design/component.drawio)
 
 * Usecase Diagram :
-![UsecaseDiagram] (https://github.com/Saijoshitha/ltts_miniproject_c/blob/main/2_Design/usecase.drawio)
+![UsecaseDiagram](https://github.com/Saijoshitha/ltts_miniproject_c/blob/main/2_Design/usecase.png)
 
 ## Low Level Design 
 
