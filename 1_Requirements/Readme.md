@@ -34,7 +34,22 @@ In this quiz game mini project, you can store the user name, view the highest sc
 
 # Detail requirements
 ## High Level Requirements: 
-
-
+| ID | Description | Category | Status | 
+| ----- | ----- | ------- | ---------|
+| HR01 | User shall be able to create quiz questions | Techincal | TBD-S1 | 
+| HR02 | User shall be able to create help menu | Techincal | TBD-S1 |
+| HR03 | User shall be able to edit the score | Techincal | TBD-S1 |
+| HR04 | User shall be able to reset the score | Techincal | TBD-S1 |
+| HR05 | User shall be able to show the score of participant | Techincal | TBD-S1 |
+| HR06 | User shall be able to show the highest score(record) | Techincal | TBD-S1 |
+| HR07 | Data should not be lost in case of faliure | Scenario | FUTURE |
+| HR08 | Data should always be stored when closing the system | Scenario | TBD-S1 |
 ##  Low level Requirements:
  
+| ID | Description | HLR ID | Status (Implemented/Future) |
+| ------ | --------- | ------ | ----- |
+| LR01 | New score shall be added by providing all the asked information and the id should be unique or else participant record should not be accepted. | HR01 | TBD-S1 |
+| LR02 | Reading participant score should be possible for both participant and user(admin) | HR02 | TBD-S1 |
+| LR03 | Each time questions should be varied that is different questions for different participants | HR02 | FUTURE |
+| LR04 | Levels must be increased so that partcipants unlimitedly enjoy the game  | HR02 | FUTURE |
+
