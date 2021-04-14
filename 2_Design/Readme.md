@@ -4,7 +4,7 @@
 ## High Level Design 
 
 * Architecture Design :
-![Architecture](https://github.com/Saijoshitha/ltts_miniproject_c/blob/main/2_Design/Untitled%20Diagram.drawio)
+![Architecture](https://github.com/Saijoshitha/ltts_miniproject_c/blob/main/2_Design/structural.png)
 
 * Component Diagram :
 ![ComponentDiagram](https://github.com/Saijoshitha/ltts_miniproject_c/blob/main/2_Design/component.png)
