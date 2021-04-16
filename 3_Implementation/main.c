@@ -212,7 +212,7 @@ int main()
      switch(r)
      {
 		case 1:
-		printf("\n\nAll are the example of input devices Except a:");
+		printf("\n\nwhixh among the following is output device?");
 		printf("\n\nA.Scanner\t\tB.Mouse\n\nC.Printer\t\tD.Keyboard");
 		if (toupper(getch())=='C')
 		{
@@ -232,7 +232,7 @@ int main()
 
 	
     	case 2:
-		printf("\n\n\nWhat kind of file extension .mpg?,");
+		printf("\n\n\nWhat kind of file extension .pn?,");
 		printf("\n\nA.Movie file \t\tB.Text file\n\nC.Image file\t\tD.Audio file");
 		if (toupper(getch())=='A')
 		{
@@ -270,8 +270,8 @@ int main()
                     }
 
         case 4:
-		printf("\n\n\nWho is he founder of facebook?");
-		printf("\n\nA.Mark zuckerburg\tB.Tesla\n\nC.Steve jobs\t\tD.Bill gates");
+		printf("\n\n\nWho is he founder of google?");
+		printf("\n\nA.sunderpichai\tB.Tesla\n\nC.Steve jobs\t\tD.Bill gates");
 		if (toupper(getch())=='A')
 		{
                                   printf("\n\nCorrect!!!");
@@ -324,8 +324,8 @@ int main()
 		       }
 	
 		case 7:
-		printf("\n\n\nwhich of he following is a read only memory storage device ");
-		printf("\n\nA.Flash drive\t\tB.Hard disk\n\nC.Floppy disk\t\tD.CDROM");
+		printf("\n\n\nwho won dhadha saheb phalke award? ");
+		printf("\n\nA.nagarjuna\t\tB.chiranjeevi\n\nC.ntr\t\tD.anr");
 		if(toupper(getch())=='D')
 		{
                                  printf("\n\nCorrect!!!");
