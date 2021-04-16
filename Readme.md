@@ -22,12 +22,22 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 `258643 | Sai Joshitha Annareddy  | X No    | X No     | X No   |X No   |X No     
    
 
-## Challenges Faced and How Was It Overcome
+| Feature Id | Feature |
+| -----------|---------|
+|F_1| Option to load the scorecard |
+|F_2| Save data to file |
+|F_3| Update score in the file |
+|F_4| Resetting the score|
+|F_5| Randomising the set of questions to be displayed |
 
-1. ABC
-2. BCD
-3. ...
-4. ...
+
+## Challenges Faced and How Was It Overcome
+| No. | Challenge | Solution
+|-----|-----------|--------
+|1. | Score was not being updated properly | Modified the logic of the program 
+|2. | Score was not being reset to zero | Modified the mode of file opening from r+ to w |
+|3. | Randomising the set of questions | Implemented rand and srand functions
+|4. | Error while Building the makefile | Trial and Error and referred Mini Project Template
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
